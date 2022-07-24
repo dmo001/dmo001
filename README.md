@@ -2,6 +2,8 @@
 
 Workin on the First Lesson
 
+Adding some stuff with the Git kraken editor.
+
 <!--
 
 **dmo001/dmo001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
